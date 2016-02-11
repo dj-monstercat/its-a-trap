@@ -32,6 +32,27 @@ p {
 	margin: 0;
 	padding: 0;
 }
+
+.btn {
+    border: 2px solid #c61f57;
+    background: none;
+    outline: none;
+    color: #c61f57;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.form input, .btn {
+    display: inline-block;
+    width: 100%;
+    padding: 9px;
+    margin-bottom: 9px;
+    font-family: 'Open Sans', sans-serif;
+}
 p a {
 	color: #252525;
 	text-decoration: underline;
