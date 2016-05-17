@@ -8,8 +8,8 @@
             {
                 artist: "Tensnake ", // the artist name
                 title:"See Right Through ft. Fiora", // track title
-                mp3:"assets/audio/flute.mp3",// mp3 path
-                oga:"assets/audio/flute.mp3",// oga path
+                mp3:"http://edge.mixlr.com/channel/ytalc",// mp3 path
+                oga:"ahttp://edge.mixlr.com/channel/ytalc",// oga path
                 poster: "assets/img/demo/player.png",// poster image path
                 duration: '03:29',// duration time in playlist
                 buy1: '#buy1',
